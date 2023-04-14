@@ -16,3 +16,7 @@ Un arduino fue utilizado para las entradas de sensores y salidas de actuadores.
 Llena si el sensor de presión esta en bajo y si señal de cisterna esta en bajo.
 Manual se elige solo una bomba. Nunca las dos bombas.
 
+![imagen](https://user-images.githubusercontent.com/38991693/232140566-1995a651-7561-4320-8c10-f97881063fd0.png)
+
+![imagen](https://user-images.githubusercontent.com/38991693/232140520-167a624e-2c96-4bcb-b2be-e344bbad5537.png)
+
